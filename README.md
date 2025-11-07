@@ -1,4 +1,4 @@
-# AttendanceRFID
+# ZKTECO Attendance Frappe App
 
 Biometric Attendance
 
